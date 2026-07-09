@@ -20,11 +20,17 @@ http://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Baby%20Do%20Die%20Do%2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Welcome_to_the_Jungle_film_poster.jpg" group-title="Movies",Welcome to the Jungle (2026)
 https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Welcome%20to%20the%20Jungle%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/Welcome%20to%20the%20Jungle%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Cocktail_2_poster.jpg" group-title="Movies",Cocktail 2
-https://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/CockTail-2%20(2026)%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D/CockTail-2%20%282026%29%20Hindi%201080p%20HDTS%20x264%20ESub%20%5BDDN%5D.mkv
+http://172.27.27.1/Data/moviedom/2026/Hindi//CockTail%202%20(2026)/CockTail%202%20(2026).mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/WtL3YbjUJN8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFMgYihlMA8=&rs=AOn4CLDxiD3xZQqrt7dJ_DvWhjOeQhmd9w" group-title="Movies",Satluj (2026)
 http://data.ctgfun.com/disk10/disk10/MOVIES%201080p/HINDI/Satluj%20(2026)%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Satluj%20%282026%29%20Hindi%201080p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIxOTY5ZDYtMjllNy00NzBmLWJkZGYtZjZhZGYzMDk2YzkzXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Laila Majnu (2018)
+http://172.27.27.1/Data/moviedom/bollywood/2018//Laila%20Majnu%20(2018)%20Hindi%20720p/Laila%20Majnu%202018%20Movie%20in%20Hindi%20720p%20WEB-DL%20x264%20%5BMoviesEv.com%5D.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_FMjpg_UX1000_.jpg" group-title="Movies",Barfi (2012)
+http://172.27.27.1/Data/moviedom/bollywood/2012//Barfi%20(2012)/Barfi%202012%20BRRip%20720p%20x264%20AAC%20-%20ViZNU%20%5BP2PDL%5D.mp4
+
 
 
